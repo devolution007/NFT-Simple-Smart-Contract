@@ -59,4 +59,4 @@ npm test
 
 ## License
 
-Copyright (c) 2022 <a href="https://github.com/kodjunkie/nft-smart-contracts/blob/master/LICENSE" target="_blank">MIT</a>, <a href="https://github.com/kodjunkie" target="_blank">Lawrence Onah</a>
+Copyright (c) 2023 <a href="https://github.com/MyselfTerry/NFT-Simple-Smart-Contract/blob/master/LICENSE" target="_blank">MIT</a>, <a href="https://github.com/MyselfTerry" target="_blank">Waleed Qureshi</a>
